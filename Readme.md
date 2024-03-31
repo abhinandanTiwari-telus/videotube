@@ -25,19 +25,23 @@ VideoTube is a Node.js project aimed at creating a comprehensive video platform.
 ## Usage
 
 1. Set up environment variables:
+
    ```bash
    cp .env.example .env
    ```
+
    Update the `.env` file with your configuration.
 
 2. Start the server:
+
    ```bash
    npm start
    ```
-   The server will start running at `http://localhost:3000`.
+
+   The server will start running at `http://localhost:8080`.
 
 3. Access the platform:
-   Open your browser and navigate to `http://localhost:3000` to access VideoTube.
+   Open your browser and navigate to `http://localhost:8080` to access VideoTube.
 
 ## Contributing
 
